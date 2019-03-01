@@ -1,0 +1,14 @@
+F:\Development\Projects\ShopAPI\ShopAPI\bin\Debug\netcoreapp2.1\ShopAPI.deps.json
+F:\Development\Projects\ShopAPI\ShopAPI\bin\Debug\netcoreapp2.1\ShopAPI.runtimeconfig.json
+F:\Development\Projects\ShopAPI\ShopAPI\bin\Debug\netcoreapp2.1\ShopAPI.runtimeconfig.dev.json
+F:\Development\Projects\ShopAPI\ShopAPI\bin\Debug\netcoreapp2.1\ShopAPI.dll
+F:\Development\Projects\ShopAPI\ShopAPI\bin\Debug\netcoreapp2.1\ShopAPI.pdb
+F:\Development\Projects\ShopAPI\ShopAPI\obj\Debug\netcoreapp2.1\ShopAPI.csprojAssemblyReference.cache
+F:\Development\Projects\ShopAPI\ShopAPI\obj\Debug\netcoreapp2.1\ShopAPI.csproj.CoreCompileInputs.cache
+F:\Development\Projects\ShopAPI\ShopAPI\obj\Debug\netcoreapp2.1\ShopAPI.RazorAssemblyInfo.cache
+F:\Development\Projects\ShopAPI\ShopAPI\obj\Debug\netcoreapp2.1\ShopAPI.RazorAssemblyInfo.cs
+F:\Development\Projects\ShopAPI\ShopAPI\obj\Debug\netcoreapp2.1\ShopAPI.AssemblyInfoInputs.cache
+F:\Development\Projects\ShopAPI\ShopAPI\obj\Debug\netcoreapp2.1\ShopAPI.AssemblyInfo.cs
+F:\Development\Projects\ShopAPI\ShopAPI\obj\Debug\netcoreapp2.1\ShopAPI.RazorTargetAssemblyInfo.cache
+F:\Development\Projects\ShopAPI\ShopAPI\obj\Debug\netcoreapp2.1\ShopAPI.dll
+F:\Development\Projects\ShopAPI\ShopAPI\obj\Debug\netcoreapp2.1\ShopAPI.pdb
