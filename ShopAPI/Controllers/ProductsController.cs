@@ -26,6 +26,12 @@ namespace ShopAPI.Controllers
             return products;
         }
 
-
+        [HttpGet("{Id}", Name = "GetProduct")]
+        public IActionResult GetById(int id)
+        {
+            var product = products.FirstOrDefault((p) => p.Id == id);
+            if (product == null) return NotFound();
+            return Ok(product);
+        }
     }
 }
